@@ -64,12 +64,6 @@ const Dashboard = () => {
         >
           📊 Your Dashboard
         </h2>
-        <button
-          className="btn btn-outline-danger fw-semibold shadow-sm"
-          onClick={() => navigate("/login")}
-        >
-          🚪 Logout
-        </button>
       </div>
       {error && (
         <div className="alert alert-danger text-center fw-semibold" role="alert">
