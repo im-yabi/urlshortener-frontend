@@ -4,7 +4,7 @@ A full-stack **URL Shortener application** built using **MongoDB, Express, React
 Users can **register, log in, shorten long URLs, track clicks, and manage everything** from a simple dashboard.  
 
 🌐 **Live Frontend:** [Netlify App](https://statuesque-kataifi-d5480e.netlify.app/login)  
-⚙️ **Backend API:** _Deployed on Render (https://urlshortener-backend-1knl.onrender.com/)  
+⚙️ **Backend API:** [Render API](https://urlshortener-backend-1knl.onrender.com)  
 
 ---
 
